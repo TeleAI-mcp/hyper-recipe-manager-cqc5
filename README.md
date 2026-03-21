@@ -1,2 +1,3 @@
-# hyper-recipe-manager-cqc5
+# Hyper Recipe Manager Cqc5
+
 A recipe management application for modern development workflows.
